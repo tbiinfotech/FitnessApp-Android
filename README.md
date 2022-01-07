@@ -2,7 +2,7 @@
 
 ----
 
-The app has workouts for your full body workouts. For all the workouts there are videos. A challegnes a keep you motivated and also have a dite plan according to your body requiremnt. 
+The app brings the power of Health and Fitness. The app offers the Fitness plans that fits the users lifestyle and goals. The users can enjoy Daily Workouts with the community and continue to challenge themselves on a day to day basis.
 
 ![Screenshot](https://github.com/tbiinfotech/FitnessApp-Android/blob/main/Images/screen%20(4).png)
 ![Screenshot](https://github.com/tbiinfotech/FitnessApp-Android/blob/main/Images/screen%20(5).png)
@@ -13,11 +13,11 @@ The app has workouts for your full body workouts. For all the workouts there are
 
 - [x] Developed using Kotlin 1.3.72
 - [x] MVVM Design Patterns
-- [x] Firebase Firestore used a database 
+- [x] Firebase Firestore used as a database 
 - [x] Firebase is used for App analytics and Crashlytics
-- [x] Courotuines used for data mapping
-- [x] Fragment navigation libarary
-- [x] Google Billing library as subssription
-- [x] Firebase Chat
-- [x] Vimeo video player
-- [x] Dagger depencency injection
+- [x] Coroutines used for data mapping
+- [x] Fragment navigation library
+- [x] Google Billing library for subscriptions and recurring payments
+- [x] Firebase FCM is used for Chat
+- [x] Vimeo is used as a video player
+- [x] Dagger dependency injection
