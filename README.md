@@ -5,7 +5,9 @@
 The app has workouts for your full body workouts. For all the workouts there are videos. A challegnes a keep you motivated and also have a dite plan according to your body requiremnt. 
 
 ![Screenshot](https://github.com/tbiinfotech/FitnessApp-Android/blob/main/Images/screen%20(4).png)
-![Screenshot: Billable](https://github.com/tbiinfotech/FitnessApp-Android/blob/main/Images/screen%20(3).png)
+![Screenshot](https://github.com/tbiinfotech/FitnessApp-Android/blob/main/Images/screen%20(5).png)
+![Screenshot](https://github.com/tbiinfotech/FitnessApp-Android/blob/main/Images/screen%20(6).png)
+
 
 ## Technology Stack
 
